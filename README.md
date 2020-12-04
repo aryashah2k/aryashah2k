@@ -1,2 +1,1 @@
-<p><p align="left"> <img src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif"/>
-<p align="center"> <img src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.png"/></p>
+<img align="" height='130px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='130px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.png" />
