@@ -57,5 +57,5 @@
   <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
 </p>
 
-<img align="" height='110px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='110px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
