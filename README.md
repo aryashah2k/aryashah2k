@@ -28,7 +28,7 @@
 
 ### My Github Statistics
 
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&show_icons=true&theme=gotham" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham" />
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham" />
 
 
 
