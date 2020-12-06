@@ -14,10 +14,10 @@
 <a href="https://www.reddit.com/user/aryashah2k/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="aryashah2k@gmail.com">
+<a href="mailto:aryashah2k@gmail.com">
   <img align="left" alt="Arya's Person Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
-<a href="arya.shah82@nmims.edu.in">
+<a href="mailto:arya.shah82@nmims.edu.in">
   <img align="left" alt="Arya's Institute Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <a href="https://aryashah.hashnode.dev">
