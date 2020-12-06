@@ -14,6 +14,20 @@
 <a href="https://www.reddit.com/user/aryashah2k/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+<a href="aryashah2k@gmail.com">
+  <img align="left" alt="Arya's Person Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+<a href="arya.shah82@nmims.edu.in">
+  <img align="left" alt="Arya's Institute Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+<a href="https://aryashah.hashnode.dev">
+  <img align="left" alt="Arya's Hashnode Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" />
+</a>
+
+<img align="" height=‘130px’ src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 " /><img align="" height=‘130px’ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515“” />
+
+
+
 
 
 
