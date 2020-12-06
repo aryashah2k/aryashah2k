@@ -28,9 +28,8 @@
 
 ### My Github Statistics 
 
-<p>
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"" />
-</p>
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=gotham" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=gotham" />
+
 
 
 
