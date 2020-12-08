@@ -5,7 +5,6 @@
 
 ### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
 
-<p align="center">
 <a href="https://twitter.com/aryashah2k">
   <img align="left" alt="Arya Shah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -30,8 +29,6 @@
 <a href="https://aryashah.hashnode.dev">
   <img align="left" alt="Arya's Hashnode Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" />
 </a>
-</p>
-
 
 <br />
 
