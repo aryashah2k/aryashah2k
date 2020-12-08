@@ -18,11 +18,9 @@
 <a href="https://www.reddit.com/user/aryashah2k/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
 <a href="https://stackoverflow.com/users/13949231/aryashah2k">
   <img align="left" alt="Arya's Stackoverlfow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 </a>
-
 <a href="mailto:aryashah2k@gmail.com">
   <img align="left" alt="Arya's Person Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
