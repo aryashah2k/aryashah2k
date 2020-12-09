@@ -31,7 +31,7 @@
   <img align="left" alt="Arya's Institute Email" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
 </a>
 <a href="https://aryashah.hashnode.dev">
-  <img align="left" alt="Arya's Hashnode Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" />
+  <img align="left" alt="Arya's Hashnode Blog" width="22px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" />
 </a>
 
 <br />
