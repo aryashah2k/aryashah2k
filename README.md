@@ -4,11 +4,19 @@
 
 
 ### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
-## Follow/Connect With Me:
+
+# Donate / Support / Buy Me A Coffee!
 
 <a href="https://www.patreon.com/bePatron?u=45451225">
 <img align="left" alt="Arya Shah | Patreon" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
 </a>	
+
+<a href="https://ko-fi.com/aryashah">
+<img align="left" alt="Arya Shah | Ko-Fi" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
+</a>
+	
+## Follow/Connect With Me:
+	
 <a href="https://twitter.com/aryashah2k">
   <img align="left" alt="Arya Shah | Twitter" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
 </a>
