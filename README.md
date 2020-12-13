@@ -14,6 +14,7 @@
 <a href="https://ko-fi.com/aryashah">
 <img align="left" alt="Arya Shah | Ko-Fi" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
 </a>
+<br>
 	
 ## Follow/Connect With Me:
 	
