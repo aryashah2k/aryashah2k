@@ -3,9 +3,9 @@
 </p>
 
 
-### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
 
-# Donate / Support / Buy Me A Coffee!
+## Donate / Support / Buy Me A Coffee!
 
 <a href="https://www.patreon.com/bePatron?u=45451225">
 <img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
