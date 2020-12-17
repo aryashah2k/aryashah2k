@@ -74,7 +74,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-[![Visits Badge](https://badges.pufler.dev/visits/aryashah2k/git-badges)](https://badges.pufler.dev)
+<img src="https://badges.pufler.dev/visits/aryashah2k/git-badges)](https://badges.pufler.dev">
 </p>
 
 <p align="center">
