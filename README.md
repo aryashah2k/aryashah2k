@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/aryashah2k/git-badges)](https://badges.pufler.dev)
-
 <p align="center">
 <img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
 </p>
@@ -76,7 +74,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://badges.pufler.dev/visits/aryashah2k/git-badges)](https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/visits/aryashah2k/git-badges">
 </p>
 
 <p align="center">
