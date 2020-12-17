@@ -74,7 +74,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://badges.pufler.dev/visits/aryashah2k/git-badges">
+<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
 </p>
 
 <p align="center">
