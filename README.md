@@ -74,7 +74,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/aryashah2k/count.svg)
 </p>
 
 <p align="center">
