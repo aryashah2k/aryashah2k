@@ -50,8 +50,8 @@
 <p align="center">
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham" />
 </p>
-
-
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&column=5&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 
