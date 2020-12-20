@@ -16,7 +16,7 @@
 </a>
 <br>
 	
-## Follow/Connect With Me:
+## Follow / Connect With Me:
 	
 <a href="https://twitter.com/aryashah2k">
   <img align="left" alt="Arya Shah | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
