@@ -52,7 +52,7 @@
   <img align="left" alt="Arya's Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" />
 </a>
 <a href="https://dockship.io/author/aryash-095">
-  <img align="left" alt="Arya's Dockship" width="60px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" />
+  <img align="left" alt="Arya's Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" />
 </a>
 
 <br>
