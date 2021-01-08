@@ -39,11 +39,23 @@
 <a href="mailto:arya.shah82@nmims.edu.in">
   <img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
 </a>
+
+
+<br />
+
+## View My Work
+
 <a href="https://aryashah.hashnode.dev">
   <img align="left" alt="Arya's Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" />
 </a>
-
+<a href="https://www.kaggle.com/aryashah2k">
+  <img align="left" alt="Arya's Kaggle" width="30px" src="Add Link" />
+</a>
+<a href="https://dockship.io/author/aryash-095">
+  <img align="left" alt="Arya's Dockship" width="30px" src="Add Link" />
+</a>
 <br />
+
 
 ### My Github Statistics
 
