@@ -5,6 +5,25 @@
 
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
 
+| Donate / Support / Buy Me A Coffee! | View My Work(In Progress!) |
+|-----|-----|
+| <a href="https://www.patreon.com/bePatron?u=45451225">
+<img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
+</a>	
+
+<a href="https://ko-fi.com/aryashah">
+<img align="left" alt="Arya Shah | Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
+</a> | 
+<a href="https://aryashah.hashnode.dev">
+  <img align="left" alt="Arya's Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" />
+</a>
+<a href="https://www.kaggle.com/aryashah2k">
+  <img align="left" alt="Arya's Kaggle" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/kaggle-icon.svg" />
+</a>
+<a href="https://dockship.io/author/aryash-095">
+  <img align="left" alt="Arya's Dockship" width="80px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/dockship-logo.png" />
+</a> |
+
 ## Donate / Support / Buy Me A Coffee!
 
 <a href="https://www.patreon.com/bePatron?u=45451225">
