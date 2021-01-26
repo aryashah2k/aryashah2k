@@ -19,7 +19,11 @@
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashah2k&theme=dark&hide_border=true"/>
+
+<p>
+<img align="center" height="150em" src="https://github-readme-streakstats.herokuapp.com/?user=adityadees&theme=ads-juicy-fresh" alt="adityadees" />
 </p>
+
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
