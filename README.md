@@ -16,7 +16,7 @@
 </p>
 <br>
 
-<![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryashah2k)>
+//![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryashah2k)>
 
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
