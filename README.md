@@ -22,23 +22,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
@@ -47,4 +30,6 @@
 <p align="center">
 <img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=gotham)
 
