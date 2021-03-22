@@ -31,5 +31,5 @@
 <img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='115px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=gotham)
+![](https://activity-graph.herokuapp.com/graph?username=aryashah2k&theme=react-dark)
 
