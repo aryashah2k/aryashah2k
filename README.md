@@ -6,7 +6,7 @@
 ## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Arya 🙋‍♂️.
 
 
-<img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/programmer.gif" alt="gif">
+<img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Black%20Geometry%20Gif.gif" alt="gif">
 
 |Donate/Support|
 |-----|
