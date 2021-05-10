@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)
+<img align="" [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=gotham)](https://git.io/streak-stats)/>
 </p>
 
 
