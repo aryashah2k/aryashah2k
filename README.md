@@ -35,7 +35,7 @@
 
 |My Github Stats|Most Used Languages|
 |---------|-------------------|
-|<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' width='200px' src="http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=dark)](https://git.io/streak-stats)" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)|
+|<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryashah2k&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='130px' src="http://github-readme-streak-stats.herokuapp.com?user=aryashah2k&theme=dark)](https://git.io/streak-stats)" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
