@@ -24,7 +24,7 @@
 
 
 
-<img src="[https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy))">
+<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)">
 
 
 
